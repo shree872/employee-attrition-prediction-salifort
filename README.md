@@ -40,9 +40,12 @@ The objective is to leverage data-driven insights to **predict employee attritio
 ## 📈 Key Insights
 
 *It appears that employees are leaving the company as a result of poor management.
+
 *Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be
 ungratifying to work long hours and not receive promotions or good evaluation scores. 
+
 *There’s a sizeable group of employees at this company who are probably burned out.
+
 *It also appears that if an employee has spent more than six years at the company, they tend not to leave.
 
 ---
@@ -81,14 +84,18 @@ ungratifying to work long hours and not receive promotions or good evaluation sc
 ## 📣 Business Recommendations
 
 • Cap the number of projects that employees can work on.
+
 • Consider promoting employees who have been with the company for atleast four years, or
 conduct further investigation about why four-year tenured employees are so dissatisfied.
+
 • Either reward employees for working longer hours, or don’t require them to do so.
+
 • If employees aren’t familiar with the company’s overtime pay policies, inform them about
 this. If the expectations around workload and time off aren’t explicit, make them clear.
+
 • Hold company-wide and within-team discussions to understand and address the company
 work culture, across the board and in specific contexts.
-48
+
 • Highevaluation scores should not be reserved for employees who work 200+ hours per month.
 Consider a proportionate scale for rewarding employees who contribute more/put in more
 effort.
