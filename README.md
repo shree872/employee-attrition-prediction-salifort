@@ -39,26 +39,17 @@ The objective is to leverage data-driven insights to **predict employee attritio
 
 ## 📈 Key Insights
 
-* ⏳ **Tenure & Attrition:**
-  Employees with either very low or very high tenure show higher attrition risk, indicating onboarding and burnout phases.
-
-* 🔥 **Workload Impact:**
-  High number of projects and excessive monthly working hours are strongly associated with employee burnout and higher attrition.
-
-* 🏢 **Department-Level Risk:**
-  Certain departments exhibit significantly higher turnover, highlighting the need for targeted retention strategies.
-
-* 💰 **Compensation Influence:**
-  Lower salary tiers are more likely to experience attrition, indicating compensation as a key retention factor.
-
-* ⚖️ **Work-Life Balance Signal:**
-  Employees with extreme working hours and workload imbalance are more likely to leave.
+*It appears that employees are leaving the company as a result of poor management.
+*Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be
+ungratifying to work long hours and not receive promotions or good evaluation scores. 
+*There’s a sizeable group of employees at this company who are probably burned out.
+*It also appears that if an employee has spent more than six years at the company, they tend not to leave.
 
 ---
 
 ## 🤖 Machine Learning Model
 
-* **Model Type:** Classification Model (e.g., Random Forest / Logistic Regression)
+* **Model Type:** Tree-based Machine Learning (Decision Tree and Random Forest)
 
 * **Techniques Used:**
 
@@ -69,9 +60,11 @@ The objective is to leverage data-driven insights to **predict employee attritio
 
 * **Evaluation Metrics:**
 
-  * Accuracy: XX%
-  * Recall: XX%
-  * Precision: XX%
+  * Accuracy: 96.2%%
+  * Recall: 90.4%
+  * Precision: 87.0%
+  * AUC: 93.8%
+  * F1-score of 88.7%
 
 ---
 
@@ -87,20 +80,18 @@ The objective is to leverage data-driven insights to **predict employee attritio
 
 ## 📣 Business Recommendations
 
-* 🚨 **Prevent Employee Burnout:**
-  Monitor workload and reduce excessive project assignments
-
-* 📉 **Optimize Work Hours:**
-  Implement policies to improve work-life balance
-
-* 🎯 **Target High-Risk Employees:**
-  Use predictive model to identify and retain at-risk employees early
-
-* 💰 **Review Compensation Strategy:**
-  Improve salary structures for lower-tier employees
-
-* 🏢 **Department-Specific Interventions:**
-  Focus retention efforts on departments with high attrition rates
+• Cap the number of projects that employees can work on.
+• Consider promoting employees who have been with the company for atleast four years, or
+conduct further investigation about why four-year tenured employees are so dissatisfied.
+• Either reward employees for working longer hours, or don’t require them to do so.
+• If employees aren’t familiar with the company’s overtime pay policies, inform them about
+this. If the expectations around workload and time off aren’t explicit, make them clear.
+• Hold company-wide and within-team discussions to understand and address the company
+work culture, across the board and in specific contexts.
+48
+• Highevaluation scores should not be reserved for employees who work 200+ hours per month.
+Consider a proportionate scale for rewarding employees who contribute more/put in more
+effort.
 
 ---
 
