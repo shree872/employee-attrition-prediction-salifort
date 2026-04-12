@@ -39,14 +39,14 @@ The objective is to leverage data-driven insights to **predict employee attritio
 
 ## 📈 Key Insights
 
-*It appears that employees are leaving the company as a result of poor management.
+* It appears that employees are leaving the company as a result of poor management.
 
-*Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be
+* Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be
 ungratifying to work long hours and not receive promotions or good evaluation scores. 
 
-*There’s a sizeable group of employees at this company who are probably burned out.
+* There’s a sizeable group of employees at this company who are probably burned out.
 
-*It also appears that if an employee has spent more than six years at the company, they tend not to leave.
+* It also appears that if an employee has spent more than six years at the company, they tend not to leave.
 
 ---
 
