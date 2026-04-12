@@ -105,8 +105,10 @@ effort.
 ## 📁 Project Files
 
 * [📓 ML Notebook](notebooks/employee_attrition_prediction_model.ipynb)
+
+---
   
-* ## 📄 Executive Summary
+## 📄 Executive Summary
 
 [👉 View Executive Summary](executive_summary_sailfort.pdf)
 
