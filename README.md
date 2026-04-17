@@ -5,7 +5,7 @@ This repository contains a Machine Learning project predicting employee attritio
 
 ## 📌 Project Overview
 
-This project develops a predictive machine learning model to identify employees at risk of attrition. Using HR analytics and employee behavioral data, the project uncovers key drivers of employee turnover and provides actionable insights to improve retention strategies.
+Developed a predictive machine learning model to identify employees at risk of attrition. Using HR analytics and employee behavioral data, I uncovered key drivers of employee turnover and provides actionable insights to improve retention strategies.
 
 ## 🎯 Business Problem
 
